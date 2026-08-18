@@ -8,10 +8,38 @@
 
 I build **native Apple products, machine learning systems, and production web applications.**
 
-<br/>
+<br/><br/>
 
 <a href="https://www.kevinwilliamfaith.com">
   <img src="https://img.shields.io/badge/Portfolio-kevinwilliamfaith.com-58A6FF?style=for-the-badge" />
 </a>
 
 </div>
+
+<br/>
+
+---
+
+<h2 align="center">🛠 Toolbox</h2>
+
+<h3 align="center">Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,python,ts,php,java,cs&theme=dark" />
+</p>
+
+<h3 align="center">Frameworks & Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,pytorch&theme=dark" />
+</p>
+
+<h3 align="center">Tools & Data</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,figma,vscode&theme=dark" />
+</p>
+
+<br/>
+
+---

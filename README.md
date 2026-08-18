@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**KeweKiwi/KeweKiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kevin William Faith 👋
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Native+Apple+Development;Applied+Machine+Learning;Building+Products+That+Actually+Ship" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+I build **native Apple products, machine learning systems, and production web applications.**
+
+<br/>
+
+<a href="https://www.kevinwilliamfaith.com">
+  <img src="https://img.shields.io/badge/Portfolio-kevinwilliamfaith.com-58A6FF?style=for-the-badge" />
+</a>
+
+</div>

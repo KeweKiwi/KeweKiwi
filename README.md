@@ -129,3 +129,23 @@ Interactive personal portfolio showcasing software engineering projects and case
 <br/>
 
 ---
+
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KeweKiwi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    alt="Kevin's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KeweKiwi&theme=github-compact&hide_border=true&area=true&radius=8"
+    alt="Kevin's GitHub Activity Graph"
+  />
+</p>
+
+<br/>
+
+---

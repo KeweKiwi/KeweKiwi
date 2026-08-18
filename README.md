@@ -133,10 +133,7 @@ Interactive personal portfolio showcasing software engineering projects and case
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=KeweKiwi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    alt="Kevin's GitHub Stats"
-  />
+
 </p>
 
 <p align="center">
@@ -150,4 +147,3 @@ Interactive personal portfolio showcasing software engineering projects and case
 
 ---
 
-bener?

@@ -15,11 +15,11 @@ I build **native Apple products, machine learning systems, and production web ap
     <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
 
-  <a href="LINKEDIN_URL_KAMU">
+  <a href="https://linkedin.com/in/kevinfaith">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:EMAIL_KAMU">
+  <a href="mailto:kevinwilliamfaith@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

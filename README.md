@@ -130,19 +130,19 @@ Interactive personal portfolio showcasing software engineering projects and case
 
 ---
 
-<h2 align="center">📊 GitHub Activity</h2>
+<h2 align="center">📊 Stats</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=KeweKiwi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    alt="Kevin's GitHub Stats"
+    width="49%"
+    src="https://streak-stats.demolab.com?user=KeweKiwi&theme=dark&hide_border=false&border_radius=6&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=A371F7&currStreakNum=A371F7&sideNums=58A6FF&currStreakLabel=A371F7&sideLabels=58A6FF&dates=2DD4BF&timezone=Asia%2FJakarta"
+    alt="Kevin's GitHub Streak"
   />
-</p>
 
-<p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KeweKiwi&theme=github-compact&hide_border=true&area=true&radius=8"
-    alt="Kevin's GitHub Activity Graph"
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=KeweKiwi&show_icons=true&show=reviews,prs_merged&rank_icon=default&hide_border=false&border_radius=6&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=2DD4BF&icon_color=A371F7"
+    alt="Kevin's GitHub Stats"
   />
 </p>
 

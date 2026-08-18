@@ -43,3 +43,79 @@ I build **native Apple products, machine learning systems, and production web ap
 <br/>
 
 ---
+
+<h2 align="center">🚀 Selected Projects</h2>
+
+<p align="center">
+  A few things I've built, shipped, and experimented with.
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Multimodal Gambling Robustness
+
+Robust multimodal machine learning research for detecting Indonesian online gambling promotions under text and image perturbations.
+
+**Tech:** Python · PyTorch · E5 · SigLIP 2 · Multimodal Learning
+
+<a href="https://github.com/KeweKiwi/multimodal-gambling-robustness">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚗 Rizki Mobil
+
+Production used-car marketplace built for a real automotive business, with inventory filtering, vehicle details, credit simulation, favorites, and lead generation.
+
+**Tech:** Laravel · PHP · MySQL · JavaScript
+
+<a href="https://github.com/KeweKiwi/rizkimobil">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 QuackFight
+
+Turn-based artillery game where players aim by tilting their device and control projectile power using their voice.
+
+**Tech:** Swift · SpriteKit · Core Motion · AVFoundation · Game Center
+
+<a href="https://github.com/Quack-Fight/QuackFight">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Kevin Portfolio
+
+Interactive personal portfolio showcasing software engineering projects and case studies through a modern web experience.
+
+**Tech:** Next.js · TypeScript · Tailwind CSS · GSAP
+
+<a href="https://github.com/KeweKiwi/kevin-porto">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.kevinwilliamfaith.com">
+  <img src="https://img.shields.io/badge/Live_Site-58A6FF?style=for-the-badge&logo=safari&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
